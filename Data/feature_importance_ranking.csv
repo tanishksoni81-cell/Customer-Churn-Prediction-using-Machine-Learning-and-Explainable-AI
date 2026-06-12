@@ -1,0 +1,48 @@
+Feature,Importance
+ChurnBinary,7.1257424
+TotalRiskScore,0.2580765
+ContractRiskScore,0.14687623
+InternetService_Fiber optic,0.102539904
+MonthlyCharges,0.052027866
+tenure,0.041042186
+PaperlessBilling_Yes,0.019323658
+TotalCharges,0.018159581
+StreamingMovies_Yes,0.015027997
+InternetService_No,0.013575384
+OnlineSecurity_Yes,0.0098805865
+ARPM,0.009503784
+CLV_proxy,0.00694316
+ElectronicCheckFlag,0.0058292397
+PhoneService_Yes,0.005226575
+ChargesSegment_Medium,0.0032850355
+HighRiskFlag,0.0028876646
+MultipleLines_Yes,0.002803423
+TechSupport_Yes,0.0022375134
+gender_Male,0.0017970521
+NewCustomerFlag,0.0017375988
+StreamingTV_Yes,0.0015338642
+OnlineSecurity_No internet service,0.0015247195
+Contract_One year,0.0015170806
+ServiceCount,0.0014650951
+PaymentMethod_Electronic check,0.0014096819
+OnlineBackup_Yes,0.0011407839
+PaymentMethod_Credit card (automatic),0.0007628884
+Dependents_Yes,0.0007353674
+SeniorCitizen,0.0006780762
+MultipleLines_No phone service,0.0005818576
+Partner_Yes,0.0004725398
+DeviceProtection_Yes,0.00023329892
+PremiumCustomerFlag,0.0
+LongTermCustomerFlag,0.0
+TechSupport_No internet service,0.0
+DeviceProtection_No internet service,0.0
+OnlineBackup_No internet service,0.0
+StreamingTV_No internet service,0.0
+Contract_Two year,0.0
+StreamingMovies_No internet service,0.0
+TenureSegment_Established,0.0
+PaymentMethod_Mailed check,0.0
+TenureSegment_Loyal,0.0
+TenureSegment_New,0.0
+ChargesSegment_Low,0.0
+ChargesSegment_Premium,0.0
